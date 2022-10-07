@@ -79,3 +79,4 @@ Available operation codes:
 |rotr   | Rotates the bottom of the stack to the top of the stack.|
 |stack  | This is the default behavior. Sets the format of the data into a stack (LIFO).|
 |queue  | Sets the format of the data into a queue (FIFO).|
+Abidemi & Chigo
